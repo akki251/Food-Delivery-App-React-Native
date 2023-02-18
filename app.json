@@ -25,14 +25,19 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.random12345.delivero_app"
+      "package": "com.first123.delivero_app",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBXx6LFTmLPMFov58P38Oy_B7_QiEEfUJQ"
+        }
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "9403b6b9-b7a3-4607-8e60-14889945e9f4"
+        "projectId": "dc467af1-6a47-4a9b-b5f5-9e99f2e37962"
       }
     }
   }

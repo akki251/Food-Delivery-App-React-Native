@@ -49,10 +49,6 @@ export default function App() {
                 headerShown: false,
               }}
             />
-            <Stack.Screen
-              name="Dummy"
-              component={Dummy}
-            />
           </Stack.Navigator>
         </TailwindProvider>
       </Provider>
