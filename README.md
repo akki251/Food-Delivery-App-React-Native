@@ -1,6 +1,9 @@
 
 # Delivero App using React Native
 
+## App Demo
+![App Demo](https://github.com/akki251/Food-Delivery-App-React-Native/blob/master/app%20video%20record%20gif.gif)
+
 ![Main Screens](https://github.com/akki251/Food-Delivery-App---React-Native/blob/master/First%20Shot.png)
 
 
